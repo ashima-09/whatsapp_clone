@@ -17,8 +17,8 @@ class ContactsRepository {
   ContactsRepository({required this.firestore});
 
   Future<List<List<UserModel>>> getAllContacts() async {
-    List<UserModel> firebaseContacts = [];
-    List<UserModel> phoneContacts = [];
+    List<UserModel> firebaseContacts = []; // contacts in user's phone that have an account
+    List<UserModel> phoneContacts = []; // contacts in user's phone that don't have an account
 
     try {
       if (await FlutterContacts.requestPermission()) {
