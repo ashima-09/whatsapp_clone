@@ -1,16 +1,16 @@
-# whatsapp_clone
+# WhatsApp Clone
 
-A new Flutter project.
+WhatsApp clone built using the integration of Flutter and Firebase
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Light and Dark Theme**
+- **Firebase Phone Authentication**
+- **Login Screen**
+- **Image Access from Local Gallery**
+- **Presence Status Display - Online and Last Seen**
+- **Real Time Chat Functionality**
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
+![whatsapp_clone_preview](https://github.com/ashima-09/whatsapp_clone/assets/96876403/db8b361f-f8b6-4d68-9ca4-5abdd57cc0b2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
